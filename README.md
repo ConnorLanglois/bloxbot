@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/BloxBot.au3
-	```
+```
+src/BloxBot.au3
+```
 
 ## Authors
 
